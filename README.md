@@ -5,3 +5,4 @@ feat: Add GitHub Activity CLI tool
 - Handle events like PushEvent, IssuesEvent, and WatchEvent.
 - Include error handling for invalid usernames and API failures.
 - Display user-friendly activity logs in the terminal.
+https://roadmap.sh/projects/github-user-activity
